@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+pyblazegl/Window.py
+pyblazegl/__init__.py
+pyblazegl.egg-info/PKG-INFO
+pyblazegl.egg-info/SOURCES.txt
+pyblazegl.egg-info/dependency_links.txt
+pyblazegl.egg-info/top_level.txt
+tests/testWindow.py
